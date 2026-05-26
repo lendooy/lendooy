@@ -19,6 +19,7 @@ I work with modern Laravel tools as well as native PHP.
   <img src="https://cdn.simpleicons.org/livewire/4E56A6" width="40"/>
   <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"/>
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
   <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
 </p>

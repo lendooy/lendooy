@@ -43,9 +43,3 @@ I work with modern Laravel tools as well as native PHP.
 - Performance optimization
 - Scalable backend systems
 - Clean code practices
-
----
-
-## Contact
-
-GitHub: https://github.com/cemoiy

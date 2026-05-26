@@ -1,8 +1,6 @@
 # Hey, I'm Dabim
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,c,mysql,git,github,vscode" />
-</p>
+
 
 ---
 

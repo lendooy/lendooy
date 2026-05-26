@@ -1,20 +1,51 @@
-# Hey 👋, I'm Dabim
+# Hey, I'm Dabim
 
-💻 PHP Developer  
-⚡ Laravel & Native PHP Enthusiast
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,c,mysql,git,github,vscode" />
+</p>
 
-## 🛠 Tech Stack
+---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## About Me
 
-## 📊 GitHub Stats
+I am a PHP developer focused on building web applications and backend systems.  
+I work with modern Laravel tools as well as native PHP.
 
+---
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemoiy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+## Tech Stack
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemoiy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="40"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/>
+  <img src="https://cdn.simpleicons.org/livewire/4E56A6" width="40"/>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
+</p>
 
-> "I only know how to code." 😄
+---
+
+## Focus Areas
+
+- Backend development with PHP
+- Laravel applications
+- REST APIs
+- Database design
+- Native PHP systems
+
+---
+
+## Current Learning
+
+- Advanced Laravel architecture
+- Performance optimization
+- Scalable backend systems
+- Clean code practices
+
+---
+
+## Contact
+
+GitHub: https://github.com/cemoiy

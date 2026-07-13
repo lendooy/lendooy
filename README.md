@@ -1,44 +1,44 @@
 # Hey, I'm Dabim
 
-
-
 ---
 
 ## About Me
 
-I am a PHP developer focused on building web applications and backend systems.  
-I work with modern Laravel tools as well as native PHP.
+I am a Python developer focused on building desktop applications, automation tools, and backend systems.
+I enjoy creating efficient software using modern Python frameworks and clean, maintainable code.
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/>
-  <img src="https://cdn.simpleicons.org/livewire/4E56A6" width="40"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40"/>
+  <img src="https://cdn.simpleicons.org/qt/41CD52" width="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
   <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40"/>
 </p>
 
 ---
 
 ## Focus Areas
 
-- Backend development with PHP
-- Laravel applications
-- REST APIs
+- Python development
+- Desktop applications (PyQt / Tkinter)
+- Automation & scripting
+- REST APIs (FastAPI)
 - Database design
-- Native PHP systems
+- Cross-platform software
 
 ---
 
 ## Current Learning
 
-- Advanced Laravel architecture
+- Advanced Python architecture
+- FastAPI
+- PyQt6 desktop applications
 - Performance optimization
-- Scalable backend systems
-- Clean code practices
+- Clean code & software architecture

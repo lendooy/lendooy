@@ -5,7 +5,7 @@
 ## About Me
 
 I am a Python developer focused on building desktop applications, automation tools, and backend systems.
-I enjoy creating efficient software using modern Python frameworks and clean, maintainable code.
+I enjoy creating efficient software  ,  clean and maintainable code.
 
 ---
 
